@@ -20,3 +20,6 @@ Debug
 .project
 KIT13ce_working.dbc
 *.bak
+
+#Out of source build directorys
+build
